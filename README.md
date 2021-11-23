@@ -64,3 +64,4 @@ Students:
 |BJ|bjone314|bjone314|
 |JN|jerrytatenance|jerrytatenance|
 |NA|nalexa|nalexa|
+|EA|Eayimadu|Eayimadu|
